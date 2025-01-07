@@ -8,6 +8,8 @@ prepare_data.py
 README_v0.md
 **/.DS_Store
 
-Data/
+Data/*
 !Data/GAOKAO-Bench-2023
 !Data/GAOKAO-Bench-2024
+!/Data/GAOKAO-Bench-2023/*
+!/Data/GAOKAO-Bench-2024/*

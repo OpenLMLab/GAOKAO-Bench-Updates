@@ -1,0 +1,71 @@
+{
+    "keywords": "2024_Chemistry_MCQs",
+    "example": [
+        {
+            "year": "2024",
+            "category": "新课标",
+            "question": "1. 文房四宝是中华传统文化的瑰宝。下列有关叙述错误的是\nA. 羊毛可用于制毛笔, 主要成分为蛋白质\nB. 松木可用于制墨, 墨的主要成分是单质碳\nC. 竹子可用于造纸, 纸的主要成分是纤维素\nD. 大理石可用于制砚台, 主要成分为硅酸盐",
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】A. 动物的毛、皮、角等的主要成分都是蛋白质，羊毛的主要成分为蛋白质，A 正确；\nB. 墨的主要成分是炭黑, 炭黑是碳元素的一种单质, 碳的单质在常温下的化学性质很稳定, 不易与其他物质发生化学反应, 故用墨汁书写的字画历经千年仍不褪色, B 正确;\nC. 竹子可用于造纸, 竹子的主要成分是纤维素, 用其造的纸的主要成分也是纤维素, C 正确;\nD. 大理石可用于制砚台，大理石主要成分为碳酸钙，不是硅酸盐，D 错误；\n故选 D。",
+            "index": 0,
+            "score": 6
+        },
+        {
+            "year": "2024",
+            "category": "新课标",
+            "question": "4. 对于下列过程中发生的化学反应, 相应离子方程式正确的是\nA. 试管壁上的银镜用稀硝酸清洗: $\\mathrm{Ag}+2 \\mathrm{H}^{+}+\\mathrm{NO}_{3}^{-}=\\mathrm{Ag}^{+}+\\mathrm{NO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$\nB. 工业废水中的 $\\mathrm{Pb}^{2+}$ 用 FeS 去除： $\\mathrm{Pb}^{2+}+\\mathrm{S}^{2-}=\\mathrm{PbS} \\downarrow$\nC. 海水提溴过程中将溴吹入 $\\mathrm{SO}_{2}$ 吸收塔: $\\mathrm{Br}_{2}+\\mathrm{SO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{Br}^{-}+\\mathrm{SO}_{4}^{2-}+4 \\mathrm{H}^{+}$\nD. 用草酸标准溶液测定高锰酸钾溶液的浓度: $2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{C}_{2} \\mathrm{O}_{4}^{2-}+16 \\mathrm{H}^{+}=2 \\mathrm{Mn}^{2+}+10 \\mathrm{CO}_{2} \\uparrow+8 \\mathrm{H}_{2} \\mathrm{O}$",
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 试管壁上的银镜用稀硝酸清洗, 银溶于稀硝酸生成硝酸银和一氧化氮气体, 该反应的离子方程式为 $3 \\mathrm{Ag}+4 \\mathrm{H}^{+}+\\mathrm{NO}_{3}^{-}=3 \\mathrm{Ag}^{+}+\\mathrm{NO} \\uparrow+2 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{A}$ 不正确;\nB. 由于 PbS 的溶解度远远小于 FeS , 因此, 工业废水中的 $\\mathrm{Pb}^{2+}$ 用 FeS 去除, 该反应的离子方程式为 $\\mathrm{Pb}^{2+}+\\mathrm{FeS}=\\mathrm{PbS}+\\mathrm{Fe}^{2+}, \\mathrm{B}$ 不正确;\nC. 海水提溴过程中将溴吹入 $\\mathrm{SO}_{2}$ 吸收塔, $\\mathrm{SO}_{2}$ 在水溶液中将 $\\mathrm{Br}_{2}$ 还原为 $\\mathrm{Br}^{-}$, 该反应的离子方程式为 $\\mathrm{Br}_{2}+\\mathrm{SO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{Br}^{-}+\\mathrm{SO}_{4}^{2-}+4 \\mathrm{H}^{+}, \\quad \\mathrm{C}$ 正确;\nD. 用草酸标准溶液测定高锰酸钾溶液的浓度, $\\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ 被氧化为 $\\mathrm{CO}_{2}, \\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ 属于弱酸, 该反应的离子方程式为 $2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}+6 \\mathrm{H}^{+}=2 \\mathrm{Mn}^{2+}+10 \\mathrm{CO}_{2} \\uparrow+8 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{D}$ 不正确;\n综上所述, 本题选 C",
+            "index": 1,
+            "score": 6
+        },
+        {
+            "year": "2024",
+            "category": "新课标",
+            "question": "5. 我国科学家最近研究的一种无机盐 $\\mathrm{Y}_{3}\\left[\\mathrm{Z}(\\mathrm{WX})_{6}\\right]_{2}$ 纳米药物具有高效的细胞内亚铁离子捕获和抗氧化能力。 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 的原子序数依次增加，且 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 属于不同族的短周期元素。 W 的外层电子数是其内层电子数的 2 倍, X 和 Y 的第一电离能都比左右相邻元素的高。 Z 的 M 层未成对电子数为 4 。下列叙述错误的是\nA. W、X、Y、Z 四种元素的单质中 $Z$ 的熔点最高\nB. 在 X 的简单氢化物中 X 原子轨道杂化类型为 $\\mathrm{sp}^{3}$\nC. Y 的氢氧化物难溶于 NaCl 溶液，可以溶于 $\\mathrm{NH}_{4} \\mathrm{Cl}$ 溶液\nD. $\\mathrm{Y}_{3}\\left[\\mathrm{Z}(\\mathrm{WX})_{6}\\right]_{2}$ 中 $\\mathrm{WX}^{-}$提供电子对与 $\\mathrm{Z}^{3+}$ 形成配位键",
+            "answer": [
+                "A"
+            ],
+            "analysis": "【分析】 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 的原子序数依次增加，且 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 属于不同族的短周期元素。 W 的外层电子数是其内层电子数的 2 倍, 则 W 为 C 元素; 每个周期的IIA 和VA 的元素的第一电离能都比左右相邻元素的高,由于配合物 $\\mathrm{Y}_{3}\\left[\\mathrm{Z}(\\mathrm{WX})_{6}\\right]_{2}$ 中 Y 在外界, Y 可形成简单阳离子, 则 Y 属于金属元素, 故 X 和 Y 分别为 N 和 $\\mathrm{Mg} ; \\mathrm{Z}$ 的 M 层未成对电子数为 4 , 则其 3 d 轨道上有 4 个不成对电子, 其价电子排布式为 $3 \\mathrm{~d}^{6} 4 \\mathrm{~s}^{2}, \\mathrm{Z}$ 为 Fe元素, $\\mathrm{Y}_{3}\\left[\\mathrm{Z}(\\mathrm{WX})_{6}\\right]_{2}$ 为 $\\mathrm{Mg}_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{2}$ 。\n【详解】A. W、X、Y、Z 四种元素的单质中, N 元素的单质形成分子晶体, Mg 和 Fe 均形成金属晶体, C 元素既可以形成金刚石又可以形成石墨，石墨的熔点最高，A 不正确；\nB. 在 X 的简单氢化物是 $\\mathrm{NH}_{3}$ ，其中 C 原子轨道杂化类型为 $\\mathrm{sp}^{3}$ ，B 正确;\nC. Y 的氢氧化物是 $\\mathrm{Mg}(\\mathrm{OH})_{2}$, 其属于中强碱, 其难溶于水, 难溶于 NaCl 溶液, 但是, 由于 $\\mathrm{NH}_{4} \\mathrm{Cl}$ 电离产生的 $\\mathrm{NH}_{4}^{+}$可以破坏 $\\mathrm{Mg}(\\mathrm{OH})_{2}$ 的沉淀溶解平衡，因此 $\\mathrm{Mg}(\\mathrm{OH})_{2}$ 可以溶于 $\\mathrm{NH}_{4} \\mathrm{Cl}$ 溶液， C 正确；\nD. $\\mathrm{Mg}_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{2}$ 中 $\\mathrm{CN}^{-}$提供电子对与 $\\mathrm{Fe}^{3+}$ 形成配位键, D 正确;\n综上所述, 本题选 A。",
+            "index": 2,
+            "score": 6
+        },
+        {
+            "year": "2024",
+            "category": "全国甲卷",
+            "question": "1. 人类对能源的利用经历了柴薪、煤炭和石油时期, 现正向新能源方向高质量发展。下列有关能源的叙述错误的是\nA. 木材与煤均含有碳元素\nB. 石油裂化可生产汽油\nC. 燃料电池将热能转化为电能\nD. 太阳能光解水可制氢",
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 木材的主要成分为纤维素，纤维素中含碳、氢、氧三种元素，煤是古代植物埋藏在地下经历了复杂的变化逐渐形成的固体, 是有机物和无机物组成的复杂混合物, 主要含碳元素, A 正确;\nB. 石油裂化是将相对分子质量较大、沸点较高的烃断裂为相对分子质量较小、沸点较低的烃的过程，汽油的相对分子质量较小，可以通过石油裂化的方式得到，B 正确;\nC. 燃料电池是将燃料 化学能变成电能的装置, 不是将热能转化为电能, C 错误;\nD. 在催化剂作用下, 利用太阳能光解水可以生成氢气和氧气, D 正确;\n故答案选 C。",
+            "index": 3,
+            "score": 6
+        },
+        {
+            "year": "2024",
+            "category": "全国甲卷",
+            "question": "2. 下列过程对应的离子方程式正确的是\nA. 用氢氟酸刻蚀玻璃: $\\mathrm{SiO}_{3}^{2-}+4 \\mathrm{~F}^{-}+6 \\mathrm{H}^{+}=\\mathrm{SiF}_{4} \\uparrow+3 \\mathrm{H}_{2} \\mathrm{O}$\nB. 用三氯化铁溶液刻制覆铜电路板: $2 \\mathrm{Fe}^{3+}+3 \\mathrm{Cu}=3 \\mathrm{Cu}^{2+}+2 \\mathrm{Fe}$\nC. 用硫代硫酸钠溶液脱氯: $\\mathrm{S}_{2} \\mathrm{O}_{3}^{2-}+2 \\mathrm{Cl}_{2}+3 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{SO}_{3}^{2-}+4 \\mathrm{Cl}^{-}+6 \\mathrm{H}^{+}$\nD. 用碳酸钠溶液浸泡锅炉水垢中的硫酸钙: $\\mathrm{CaSO}_{4}+\\mathrm{CO}_{3}^{2-}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}$",
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】A. 玻璃的主要成分为 $\\mathrm{SiO}_{2}$, 用氢氟酸刻蚀玻璃时, $\\mathrm{SiO}_{2}$ 和氢氟酸反应生成 $\\mathrm{SiF}_{4}$ 气体和水, 反应的方程式为 $\\mathrm{SiO}_{2}+4 \\mathrm{HF}=\\mathrm{SiF}_{4} \\uparrow+2 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{A}$ 错误;\nB. $\\mathrm{Fe}^{3+}$ 可以将 Cu 氧化成 $\\mathrm{Cu}^{2+}$, 三氯化铁刻蚀铜电路板时反应的离子方程式为 $2 \\mathrm{Fe}^{3+}+\\mathrm{Cu}^{-1} 2 \\mathrm{Fe}^{2+}+\\mathrm{Cu}^{2+}, \\mathrm{B}$ 错误;\nC. 氯气具有强氧化性, 可以氧化硫代硫酸根成硫酸根, 氯气被还原为氯离子, 反应的离子方程式为 $\\mathrm{S}_{2} \\mathrm{O}$ ${ }_{3}^{2-}+4 \\mathrm{Cl}_{2}+5 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{SO}_{4}^{2-}+8 \\mathrm{Cl}^{-}+10 \\mathrm{H}^{+}$, C 错误;\nD. 碳酸钙的溶解度小于硫酸钙，可以用碳酸钠溶液浸泡水垢使硫酸钙转化为疏松、易溶于酸的碳酸钙，反应的离子方程式为 $\\mathrm{CaSO}_{4}+\\mathrm{CO}_{3}^{2-}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}, \\mathrm{D}$ 正确;故答案选D。",
+            "index": 4,
+            "score": 6
+        },
+        {
+            "year": "2024",
+            "category": "全国甲卷",
+            "question": "5. W、X、Y、 Z 为原子序数依次增大 ${ }^{\\square}$ 短周期元素。 W 和 X 原子序数之和等于 $\\mathrm{Y}^{-}$的核外电子数, 化合物 $\\mathrm{W}^{+}\\left[\\mathrm{ZY}_{6}\\right]^{-5}$ 可用作化学电源的电解质。下列叙述正确的是\nA. X 和 Z 属于同一主族\nB. 非属性： $\\mathrm{X}>\\mathrm{Y}>\\mathrm{Z}$\nC. 气态氢化物的稳定性： $\\mathrm{Z}>\\mathrm{Y}$\nD. 原子半径: $Y>X>W$",
+            "answer": [
+                "A"
+            ],
+            "analysis": "【分析】 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 为原子序数依次增大的短周期元素，且能形成离子化合物 $\\mathrm{W}^{+}\\left[\\mathrm{ZY}_{6}\\right]$ ，则 W 为 Li 或 Na ；又由于 W 和 X 原子序数之和等于 $\\mathrm{Y}^{-}$的核外电子数，若 W 为 Na ， X 原子序数大于 Na ，则 W 和 X 原子序数之和大于 18 ，不符合题意，因此 W 只能为 Li 元素；由于 Y 可形成 $\\mathrm{Y}^{-}$，故 Y 为第VII主族元素，且原子序数 Z 大于 Y ，故 Y 不可能为 Cl 元素，因此 Y 为 F 元素， X 的原子序数为 $10-3=7, \\mathrm{X}$ 为 N 元素；根据 $\\mathrm{W} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 形成离子化合物 $\\mathrm{W}^{+}\\left[\\mathrm{ZY}_{6}\\right]^{-}$，可知 Z 为 P 元素；综上所述， W 为 Li 元素， X 为 N 元素， Y 为 F 元素， $Z$ 为 $P$ 元素。\n【详解】A. 由分析可知, X 为 N 元素, Z 为 P 元素, X 和 Z 属于同一主族, A 项正确;\nB. 由分析可知, $X$ 为 $N$ 元素, $Y$ 为 $F$ 元素, $Z$ 为 $P$ 元素, 非金属性: $F>N>P, B$ 项错误;\nC. 由分析可知, Y 为 F 元素, Z 为 P 元素, 非金属性越强, 其简单气态氢化物的稳定性越强, 即气态氢化物的稳定性: $\\mathrm{HF}>\\mathrm{PH}_{3}$, C 项错误;\nD. 由分析可知, W 为 Li 元素, X 为 N 元素, Y 为 F 元素, 同周期主族元素原子半径随着原子序数的增大而减小, 故原子半径: $\\mathrm{Li}>\\mathrm{N}>\\mathrm{F}, \\mathrm{D}$ 项错误;\n故选 A。",
+            "index": 5,
+            "score": 6
+        }
+    ]
+}
