@@ -6,7 +6,8 @@ parent_path = os.path.dirname(sys.path[0])
 if parent_path not in sys.path:
     sys.path.append(parent_path)
 
-from models.openai_gpt4 import OpenaiAPI
+# from Models.openai_gpt4 import OpenaiAPI
+from Models.gemini import GeminiAPI
 
 from bench_function import get_api_key, export_distribute_json, export_union_json
 import os
@@ -21,8 +22,10 @@ if __name__ == "__main__":
     f.close()
 
 # get the model_name and instantiate model_api
-model_api = OpenaiAPI([""])
-model_name = "gpt-4"
+api_key_list = ['AIzaSyDJevRibf4zEa_ijHJGQUlrgEakxyjMi28']
+
+model_api = GeminiAPI(api_key_list, model_name="gemini-pro")
+model_name = "gemini-pro"
     
 for i in range(len(data)):
     directory = "../Data"
